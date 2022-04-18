@@ -2,8 +2,8 @@
 
 ### About
 
-This is a Mini-Project for SC1015 - Intro to Data Science and Artificial Intelligence
-We used [Simulated Credit Card Transactions Generated Using Sparkov](https://www.kaggle.com/datasets/kartik2112/fraud-detection) as our dataset.
+This is a Mini-Project for SC1015 - Intro to Data Science and Artificial Intelligence. <br>
+We used [Simulated Credit Card Transactions Generated Using Sparkov](https://www.kaggle.com/datasets/kartik2112/fraud-detection) as our dataset. <br>
 You can access our code in the following order to understand it best:
 
 1. [Data Encoding, Resampling and Splitting](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Cleaning%20and%20Resampling.ipynb)
