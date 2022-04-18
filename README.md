@@ -1,37 +1,37 @@
 # Welcome to Credit Card Fraud Prediction
 
-## About
+### About
 
 This is a Mini-Project for SC1015 - Intro to Data Science and Artificial Intelligence
-Our data was [Simulated Credit Card Transactions generated using Sparkov](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
-For detailed walkthrough, please view the source code in order from:
+We used [Simulated Credit Card Transactions generated using Sparkov](https://www.kaggle.com/datasets/kartik2112/fraud-detection) as our dataset.
+You can access our code in the following order to understand it best:
 
 1. [Data Encoding, Resampling and Splitting](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Cleaning%20and%20Resampling.ipynb)
 2. [Exploratory Data Analysis](https://github.com/capnhayfay/DSAI-BCF2-G1)
 3. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1)
 4. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/)
 
-## Contributors
+### Contributors
 
 - @Beelzebulb - EDA, K Nearest Neighbours
 - @capnhayfay - Data Encoding, Random Forest Classification
 - @tdxj2020 - Data Resampling & Splitting, Random Forest Classification
 
-## Problem Definition
+### Problem Definition
 
 - Are we able to predict if a Credit Card Transaction is Fraudulent?
 - Which model would be the best to predict it?
 
-## Models Used
+### Models Used
 
 1. KNN Classification
 2. Random Forest Classifier
 
-## Conclusion
+### Conclusion
 
 - To Be Continued....
 
-## What did we learn from this project?
+### What did we learn from this project?
 
 - Understanding importance of encoding categorical variables in modelling
 - Managing highly imbalanced data using Synthetic Minority Oversampling Technique (SMOTE)
@@ -40,7 +40,7 @@ For detailed walkthrough, please view the source code in order from:
 - Understanding classification results and applying them to data
 - Collaborating using GitHub
 
-## References
+### References
 
 - <https://developers.themoviedb.org/3/getting-started>
 - <https://www.free-powerpoint-templates-design.com/old-style-movie-projector-powerpoint-templates/>
