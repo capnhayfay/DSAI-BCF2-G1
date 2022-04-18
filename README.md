@@ -6,11 +6,10 @@ This is a Mini-Project for SC1015 - Intro to Data Science and Artificial Intelli
 Our data was [Simulated Credit Card Transactions generated using Sparkov](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
 For detailed walkthrough, please view the source code in order from:
 
-1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
-2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
-3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
-4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-5. [Neural Network](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+1. [Data Encoding, Resampling and Splitting](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Cleaning%20and%20Resampling.ipynb)
+2. [Data Visualization](https://github.com/capnhayfay/DSAI-BCF2-G1)
+4. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1)
+5. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/)
 
 ## Contributors
 
