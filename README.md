@@ -14,7 +14,7 @@ For detailed walkthrough, please view the source code in order from:
 
 ## Contributors
 
-- @Beelzebulb - Neural Networks, Data Resampling, Data Extractio
+- @Beelzebulb - EDA, K Nearest Neighbours
 - @capnhayfay - Logistic Regression
 - @tdxj2020 - Data Visualization, Data Extraction
 
