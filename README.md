@@ -25,8 +25,8 @@ For detailed walkthrough, please view the source code in order from:
 
 ## Models Used
 
-1. Logistic Regression
-2. Neural Networks
+1. KNN
+2. Random Forest
 
 ## Conclusion
 
