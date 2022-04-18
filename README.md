@@ -3,7 +3,7 @@
 ### About
 
 This is a Mini-Project for SC1015 - Intro to Data Science and Artificial Intelligence
-We used [Simulated Credit Card Transactions generated using Sparkov](https://www.kaggle.com/datasets/kartik2112/fraud-detection) as our dataset.
+We used [Simulated Credit Card Transactions Generated Using Sparkov](https://www.kaggle.com/datasets/kartik2112/fraud-detection) as our dataset.
 You can access our code in the following order to understand it best:
 
 1. [Data Encoding, Resampling and Splitting](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Cleaning%20and%20Resampling.ipynb)
@@ -19,7 +19,7 @@ You can access our code in the following order to understand it best:
 
 ### Problem Definition
 
-- Are we able to predict if a Credit Card Transaction is Fraudulent?
+- How are we able to predict if a credit card transaction is fraudulent?
 - Which model would be the best to predict it?
 
 ### Models Used
