@@ -7,15 +7,15 @@ Our data was [Simulated Credit Card Transactions generated using Sparkov](https:
 For detailed walkthrough, please view the source code in order from:
 
 1. [Data Encoding, Resampling and Splitting](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Cleaning%20and%20Resampling.ipynb)
-2. [Data Visualization](https://github.com/capnhayfay/DSAI-BCF2-G1)
-4. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1)
-5. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/)
+2. [Exploratory Data Analysis](https://github.com/capnhayfay/DSAI-BCF2-G1)
+3. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1)
+4. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/)
 
 ## Contributors
 
 - @Beelzebulb - EDA, K Nearest Neighbours
-- @capnhayfay - Logistic Regression
-- @tdxj2020 - Data Visualization, Data Extraction
+- @capnhayfay - Data Encoding, Random Forest Classification
+- @tdxj2020 - Data Resampling & Splitting, Random Forest Classification
 
 ## Problem Definition
 
@@ -25,26 +25,20 @@ For detailed walkthrough, please view the source code in order from:
 ## Models Used
 
 1. KNN Classification
-2. Random Forest 
+2. Random Forest Classifier
 
 ## Conclusion
 
-- Popularity and budget have low linear correlation value with ratings (watch out for bandwagons 🤣)
-- Popularity of the casts and crews have higher linear correlation value with ratings
-- Resampling imbalanced data improved model performance especially on the minority class
-- Logistic Regression did not perform well with non-linearly correlated variables
-- Neural Networks along with SMOTEENN resampling method consistently did well in predicting good movies after 100 training attempts (around 72% accuracy, 70% recall)
-- Yes, it is possible to predict if a movie is good with acceptable amount of accuracy and recall
+- To Be Continued....
 
 ## What did we learn from this project?
 
-- Handling imbalanced datasets using resampling methods and imblearn package
-- Neural Networks, Keras and Tensorflow
-- Logistic Regression from sklearn
-- API Usage
-- Other packages such as tqdm, json, requests
+- Understanding importance of encoding categorical variables in modelling
+- Managing highly imbalanced data using Synthetic Minority Oversampling Technique (SMOTE)
+- Random Forest Classification
+- K-Nearest Neighbours Classification
+- Understanding classification results and applying them to data
 - Collaborating using GitHub
-- Concepts about Precision, Recall, and F1 Score
 
 ## References
 
