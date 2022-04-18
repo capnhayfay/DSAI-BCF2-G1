@@ -25,8 +25,8 @@ For detailed walkthrough, please view the source code in order from:
 
 ## Models Used
 
-1. KNN
-2. Random Forest
+1. KNN Classification
+2. Random Forest 
 
 ## Conclusion
 
