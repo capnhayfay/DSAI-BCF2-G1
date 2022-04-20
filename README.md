@@ -42,7 +42,7 @@ You can access our code in the following order to understand it best:
 
 ### References
 
-- https://slidesgo.com/theme/neon-marketing-plan#search-Marketing&position-11&results-1040
+- https://slidesgo.com/theme/neon-marketing-plan#search-Marketing&position-11&results-1040 <br>
 
 - <https://developers.themoviedb.org/3/getting-started>
 - <https://www.free-powerpoint-templates-design.com/old-style-movie-projector-powerpoint-templates/>
