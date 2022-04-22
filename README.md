@@ -45,6 +45,7 @@ You can access our code in the following order to understand it best:
 
 - https://slidesgo.com/theme/neon-marketing-plan#search-Marketing&position-11&results-1040 <br>
 
+<!--- add more references! --
 - <https://developers.themoviedb.org/3/getting-started>
 - <https://www.free-powerpoint-templates-design.com/old-style-movie-projector-powerpoint-templates/>
 - <https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets>
