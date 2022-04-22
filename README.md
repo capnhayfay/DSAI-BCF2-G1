@@ -16,7 +16,7 @@ You can access our code in the following order to understand it best:
 
 - @Beelzebulb - EDA, K Nearest Neighbours
 - @capnhayfay - Data Encoding, Random Forest Classification
-- @tdxj2020 - Data Resampling & Splitting, Random Forest Classification
+- @tdxj2020 - Data Resampling & Splitting, General Deliverables
 
 ### Problem Definition
 
