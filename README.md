@@ -21,8 +21,8 @@ You can access our code in the following order to understand it best:
 ### Contributors
 
 - @Beelzebulb - EDA, K Nearest Neighbours
-- @capnhayfay - Data Encoding, Random Forest Classification
-- @tdxj2020 - Data Resampling & Splitting, General Deliverables
+- @capnhayfay - Data Encoding, Resampling & Splitting, Random Forest Classification
+- @tdxj2020 - Data Preparation, General Deliverables
 
 ### Problem Definition
 
@@ -47,7 +47,6 @@ You can access our code in the following order to understand it best:
 - Random Forest classification is the better model to predict fraudulent CC transactions.
 - SMOTE is good for balancing an imbalanced dataset, but will adversely affect the metrics of <br>
   classification models trained with SMOTE-adjusted datasets on test datasets. (Recall, F1 score)
--
 
 ### What did we learn from this project?
 
