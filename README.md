@@ -8,11 +8,15 @@ This is a Mini-Project for SC1015 - Intro to Data Science and Artificial Intelli
 We used [Simulated Credit Card Transactions Generated Using Sparkov](https://www.kaggle.com/datasets/kartik2112/fraud-detection) as our dataset. <br>
 You can access our code in the following order to understand it best:
 
-1. [Data Encoding, Resampling and Splitting](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Cleaning%20and%20Resampling.ipynb)
-2. [Exploratory Data Analysis](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Extraction%2C%20Resampling%2C%20and%20Splitting.ipynb)
-3. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1)
-4. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1)
-
+> 
+> 1. [Data Encoding, Resampling and Splitting](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Cleaning%20and%20Resampling.ipynb)
+> 
+> 2. [Exploratory Data Analysis](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Extraction%2C%20Resampling%2C%20and%20Splitting.ipynb)
+> 
+> 3. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1)
+> 
+> 4. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1)
+> 
 
 ### Contributors
 
@@ -42,16 +46,16 @@ You can access our code in the following order to understand it best:
 
 - Random Forest classification is the better model to predict fraudulent CC transactions.
 - SMOTE is good for balancing an imbalanced dataset, but will adversely affect the metrics of <br>
-  classification models trained with SMOTE-adjusted datasets on test datasets. 
+  classification models trained with SMOTE-adjusted datasets on test datasets. (Recall, F1 score)
 -
 
 ### What did we learn from this project?
 
-- Understanding utility, importance of encoding categorical variables in modelling
+- Understanding utility, importance of encoding categorical variables in modelling (CatBoost, Binary encoding)
 - Managing highly imbalanced data using Synthetic Minority Oversampling Technique (SMOTE)
-- Random Forest Classification, K-Nearest Neighbours (KNN) Classification
+- Random Forest Classification, K-Nearest Neighbours (KNN) Classification with sklearn
 - Understanding classification results, then applying them to data
-- Collaborating using GitHub, other platforms
+- Collaborating using GitHub, collaborative digital platforms
 
 ### References
 
