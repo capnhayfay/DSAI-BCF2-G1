@@ -21,7 +21,7 @@ You can access our code in the following order to understand it best:
 ### Contributors
 
 - @Beelzebulb - EDA, K Nearest Neighbours
-- @capnhayfay - Data Encoding, Resampling & Splitting, Random Forest Classification
+- @capnhayfay - Data Encoding, Resampling & Splitting, Random Forest
 - @tdxj2020 - Data Preparation, Cleaning, General Deliverables
 
 ### Problem Definition
@@ -33,6 +33,8 @@ You can access our code in the following order to understand it best:
 
 1. KNN Classification
 2. Random Forest Classification
+
+> W
 
 ### Insights
 
