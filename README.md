@@ -22,7 +22,7 @@ You can access our code in the following order to understand it best:
 
 - @Beelzebulb - EDA, K Nearest Neighbours
 - @capnhayfay - Data Encoding, Resampling & Splitting, Random Forest Classification
-- @tdxj2020 - Data Preparation, General Deliverables
+- @tdxj2020 - Data Preparation, Cleaning, General Deliverables
 
 ### Problem Definition
 
