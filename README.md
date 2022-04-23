@@ -65,7 +65,7 @@ You can access our code in the following order to understand it best:
 - https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a
 - https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159
 - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Normalizer.html#sklearn.preprocessing.Normalizer
-- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier.fit
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 - https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
 - https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
 - [Slides] https://slidesgo.com/theme/neon-marketing-plan#search-Marketing&position-11&results-1040
