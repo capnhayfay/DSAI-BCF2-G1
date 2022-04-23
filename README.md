@@ -57,13 +57,17 @@ You can access our code in the following order to understand it best:
 - Random Forest Classification, K-Nearest Neighbours (KNN) Classification with sklearn
 - Analysing effectiveness of classification techniques with Recall, F1 Score, visualised with confusion matrix
 - Understanding classification results (decision trees etc.), then applying them to data
-- Collaborating using GitHub, collaborative digital platforms
+- Collaborating using GitHub, other collaborative digital platforms
 
 ### References
 
-- 
-- 
-- 
+- https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-random-forest-algorithm-for-beginners/
+- https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a
+- https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159
+- https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Normalizer.html#sklearn.preprocessing.Normalizer
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier.fit
+- https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
+- https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
 - [Slides] https://slidesgo.com/theme/neon-marketing-plan#search-Marketing&position-11&results-1040
 - [Image] <https://geopy.readthedocs.io/en/stable/_images/logo-wide.png>
 - [Image] <https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png>
