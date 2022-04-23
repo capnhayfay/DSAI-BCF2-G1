@@ -20,7 +20,7 @@ You can access our code in the following order to understand it best:
 
 ### Contributors
 
-- @Beelzebulb - EDA, K Nearest Neighbours
+- @Beelzebulb - EDA, K-Nearest Neighbours
 - @capnhayfay - Data Encoding, Resampling & Splitting, Random Forest
 - @tdxj2020 - Data Preparation, Cleaning, General Deliverables
 
