@@ -1,5 +1,5 @@
 # Credit Card Fraud Prediction 💳
-# 信用卡交易数据集 分析预测 ・ Prédiction de fraude par carte de crédit ・ Predicción de fraude con Tarjeta de Crédito ・ التنبؤ بالاحتيال على بطاقة الائتمان 
+# 信用卡交易数据集 分析预测 ・ Prédiction de fraude par carte de crédit ・ Predicción de fraude con tarjeta de crédito ・ Предсказание мошенничества с кредитными картами ・ التنبؤ بالاحتيال على بطاقة الائتمان 
 
 ### About
 
