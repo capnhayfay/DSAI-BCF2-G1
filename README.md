@@ -44,9 +44,10 @@ You can access our code in the following order to understand it best:
 
 ### References
 
-- https://slidesgo.com/theme/neon-marketing-plan#search-Marketing&position-11&results-1040 <br>
-- <https://geopy.readthedocs.io/en/stable/_images/logo-wide.png> [Image]
-
+- https://slidesgo.com/theme/neon-marketing-plan#search-Marketing&position-11&results-1040
+- [Image] <https://geopy.readthedocs.io/en/stable/_images/logo-wide.png>
+- [Image] <https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png>
+- 
 <!--- add more references! --
 - <https://developers.themoviedb.org/3/getting-started>
 - <https://www.free-powerpoint-templates-design.com/old-style-movie-projector-powerpoint-templates/>
@@ -58,3 +59,7 @@ You can access our code in the following order to understand it best:
 - <https://towardsdatascience.com/derivative-of-the-sigmoid-function-536880cf918e>
 - <https://www.researchgate.net/figure/Calculation-of-Precision-Recall-and-Accuracy-in-the-confusion-matrix_fig3_336402347>
 - <https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd>
+
+--->
+
+<!--https://www.markdownguide.org/basic-syntax/-->
