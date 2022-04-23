@@ -1,5 +1,6 @@
 # Credit Card Fraud Prediction 
 # 信用卡交易数据集 分析预测 💳
+### Prédiction de fraude aux les cartes des crédits 
 
 ### About
 
@@ -26,7 +27,7 @@ You can access our code in the following order to understand it best:
 ### Models Used
 
 1. KNN Classification
-2. Random Forest Classifier
+2. Random Forest Classification
 
 ### Conclusion
 
@@ -34,12 +35,11 @@ You can access our code in the following order to understand it best:
 
 ### What did we learn from this project?
 
-- Understanding importance of encoding categorical variables in modelling
+- Understanding utility, importance of encoding categorical variables in modelling
 - Managing highly imbalanced data using Synthetic Minority Oversampling Technique (SMOTE)
-- Random Forest Classification
-- K-Nearest Neighbours Classification
-- Understanding classification results and applying them to data
-- Collaborating using GitHub
+- Random Forest Classification, K-Nearest Neighbours (KNN) Classification
+- Understanding classification results, then applying them to data
+- Collaborating using GitHub, other platforms
 
 ### References
 
