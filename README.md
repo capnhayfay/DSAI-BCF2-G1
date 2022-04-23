@@ -60,7 +60,10 @@ You can access our code in the following order to understand it best:
 
 ### References
 
-- https://slidesgo.com/theme/neon-marketing-plan#search-Marketing&position-11&results-1040
+- 
+- 
+- 
+- [Slides] https://slidesgo.com/theme/neon-marketing-plan#search-Marketing&position-11&results-1040
 - [Image] <https://geopy.readthedocs.io/en/stable/_images/logo-wide.png>
 - [Image] <https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png>
 
