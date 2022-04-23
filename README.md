@@ -51,10 +51,11 @@ You can access our code in the following order to understand it best:
 
 ### What did we learn from this project?
 
-- Understanding utility, importance of encoding categorical variables in modelling (CatBoost, Binary encoding)
+- Utility, importance of encoding categorical variables in modelling (CatBoost, Binary encoding)
 - Managing highly imbalanced data using Synthetic Minority Oversampling Technique (SMOTE)
 - Random Forest Classification, K-Nearest Neighbours (KNN) Classification with sklearn
-- Understanding classification results, then applying them to data
+- Analysing effectiveness of classification techniques with Recall, F1 Score, visualised with confusion matrix
+- Understanding classification results (decision trees etc.), then applying them to data
 - Collaborating using GitHub, collaborative digital platforms
 
 ### References
