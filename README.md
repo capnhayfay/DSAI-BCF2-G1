@@ -13,9 +13,9 @@ You can access our code in the following order to understand it best:
 > 
 > 2. [Exploratory Data Analysis](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Extraction%2C%20Resampling%2C%20and%20Splitting.ipynb)
 > 
-> 3. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1)
+> 3. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/K-Nearest%20Classification.ipynb)
 > 
-> 4. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1)
+> 4. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Random%20Forest.ipynb)
 > 
 
 ### Contributors
@@ -34,7 +34,7 @@ You can access our code in the following order to understand it best:
 1. KNN Classification
 2. Random Forest Classification
 
-> W
+> We contemplated on using Decision Trees, but they remain unused for this mini-project.
 
 ### Insights
 
