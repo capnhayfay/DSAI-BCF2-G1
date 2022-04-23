@@ -1,6 +1,7 @@
 # Credit Card Fraud Prediction 
 # 信用卡交易数据集 分析预测 💳
-# Prédiction de fraude aux les cartes des crédits 
+# Prédiction de fraude aux les cartes des crédits
+# التنبؤ بالاحتيال على بطاقة الائتمان 
 
 ### About
 
