@@ -30,9 +30,17 @@ You can access our code in the following order to understand it best:
 1. KNN Classification
 2. Random Forest Classification
 
+### Insights
+
+- CC transaction amount distribution varies significantly between fraud, non-fraud transactions
+- Customer-Merchant distance is similar for both fraud, non-fraud transactions
+- Most fraudulent CC transactions occur on weekends 💸💳
+- The job with the most fraudulent CC transactions for this dataset is *Materials Engineer*.
+- The city with the most fraudulent CC transactions for this dataset is *Houston, TX*. 🇺🇸 
+
 ### Conclusion
 
-- To Be Continued....
+- Random Forest classification is the better model to predict fraudulent CC transactions.
 
 ### What did we learn from this project?
 
