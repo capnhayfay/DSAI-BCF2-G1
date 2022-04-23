@@ -13,6 +13,8 @@ You can access our code in the following order to understand it best:
 3. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1)
 4. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1)
 
+> **"i cant import smote sia, wtf"** - @Beelzebulb <br>
+
 ### Contributors
 
 - @Beelzebulb - EDA, K Nearest Neighbours
