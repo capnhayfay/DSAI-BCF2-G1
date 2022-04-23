@@ -62,6 +62,9 @@ You can access our code in the following order to understand it best:
 - Understanding classification results (decision trees etc.), then applying them to data
 - Collaborating using GitHub, other collaborative digital platforms
 
+### Data Used
+All of our data is stored withn the directory dataset within a zip file
+
 ### References
 
 - https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-random-forest-algorithm-for-beginners/
