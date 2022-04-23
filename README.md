@@ -8,9 +8,9 @@ We used [Simulated Credit Card Transactions Generated Using Sparkov](https://www
 You can access our code in the following order to understand it best:
 
 1. [Data Encoding, Resampling and Splitting](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Cleaning%20and%20Resampling.ipynb)
-2. [Exploratory Data Analysis](https://github.com/capnhayfay/DSAI-BCF2-G1)
+2. [Exploratory Data Analysis](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/Data%20Extraction%2C%20Resampling%2C%20and%20Splitting.ipynb)
 3. [K-Nearest Neighbours Classification](https://github.com/capnhayfay/DSAI-BCF2-G1)
-4. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1/blob/main/)
+4. [Random Forest Regression](https://github.com/capnhayfay/DSAI-BCF2-G1)
 
 ### Contributors
 
@@ -47,6 +47,7 @@ You can access our code in the following order to understand it best:
 
 <!--- add more references! --
 - <https://developers.themoviedb.org/3/getting-started>
+- <https://geopy.readthedocs.io/en/stable/_images/logo-wide.png> [Image]
 - <https://www.free-powerpoint-templates-design.com/old-style-movie-projector-powerpoint-templates/>
 - <https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets>
 - <https://alexlenail.me/NN-SVG/index.html>
