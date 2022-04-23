@@ -46,9 +46,15 @@ You can access our code in the following order to understand it best:
 
 ### Conclusion
 
-- Random Forest classification is the better model to predict fraudulent CC transactions.
+- KNN classification had 96% accuracy, 6% precision, 58% recall, 0.11 F1-Score
+- Random Forest classification had 99% accuracy, 76% precision, 11% recall, 0.2 F1-Score
+
+<br>
+
+- Based on the above results, KNN is better at detecting fraudulent in unknown transaction datasets <br>
+  due to the high recall score.
 - SMOTE is good for balancing an imbalanced dataset, but will adversely affect the metrics of <br>
-  classification models trained with SMOTE-adjusted datasets on test datasets. (Recall, F1 score)
+  classification models trained with SMOTE-adjusted datasets on test datasets. (Recall, F1-score)
 
 ### What did we learn from this project?
 
