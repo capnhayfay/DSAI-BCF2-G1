@@ -49,7 +49,7 @@ You can access our code in the following order to understand it best:
 - KNN classification had 96% accuracy, 6% precision, 58% recall, 0.11 F1-Score
 - Random Forest classification had 99% accuracy, 76% precision, 11% recall, 0.2 F1-Score
 - Based on the above results, KNN is better at detecting fraudulent in unknown transaction datasets <br>
-  due to the high recall score.
+  due to higher recall 
 - SMOTE is good for balancing an imbalanced dataset, but will adversely affect the metrics of <br>
   classification models trained with SMOTE-adjusted datasets on test datasets. (Recall, F1-score)
 
@@ -75,18 +75,6 @@ You can access our code in the following order to understand it best:
 - [Image] <https://geopy.readthedocs.io/en/stable/_images/logo-wide.png>
 - [Image] <https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png>
 
-<!--- add more references! --
-- <https://developers.themoviedb.org/3/getting-started>
-- <https://www.free-powerpoint-templates-design.com/old-style-movie-projector-powerpoint-templates/>
-- <https://www.kaggle.com/rafjaa/resampling-strategies-for-imbalanced-datasets>
-- <https://alexlenail.me/NN-SVG/index.html>
-- <https://www.kdnuggets.com/2016/08/learning-from-imbalanced-classes.html/2>
-- <https://arxiv.org/pdf/1608.06048.pdf>
-- <https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/>
-- <https://towardsdatascience.com/derivative-of-the-sigmoid-function-536880cf918e>
-- <https://www.researchgate.net/figure/Calculation-of-Precision-Recall-and-Accuracy-in-the-confusion-matrix_fig3_336402347>
-- <https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd>
-
---->
+<!--- add more references! -->
 
 <!--https://www.markdownguide.org/basic-syntax/-->
