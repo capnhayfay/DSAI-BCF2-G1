@@ -34,13 +34,16 @@ You can access our code in the following order to understand it best:
 
 - CC transaction amount distribution varies significantly between fraud, non-fraud transactions
 - Customer-Merchant distance is similar for both fraud, non-fraud transactions
-- Most fraudulent CC transactions occur on weekends 💸💳
-- The job with the most fraudulent CC transactions for this dataset is *Materials Engineer*.
-- The city with the most fraudulent CC transactions for this dataset is *Houston, TX*. 🇺🇸 
+- Most fraudulent CC transactions occur on the weekends 💸💳
+- The job with the most fraudulent CC transactions for this dataset is *Materials Engineer*
+- The city with the most fraudulent CC transactions for this dataset is *Houston, TX* 🦅 
 
 ### Conclusion
 
 - Random Forest classification is the better model to predict fraudulent CC transactions.
+- SMOTE is good for balancing an imbalanced dataset, but will adversely affect the metrics of <br>
+  classification models trained with SMOTE-adjusted datasets on test datasets. 
+-
 
 ### What did we learn from this project?
 
