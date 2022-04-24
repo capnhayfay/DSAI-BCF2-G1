@@ -63,7 +63,8 @@ You can access our code in the following order to understand it best:
 - Collaborating using GitHub, other collaborative digital platforms
 
 ### Data Used
-All of our data is stored withn the directory dataset within a zip file
+- All of our datasets are stored withn a [dropbox folder](https://www.dropbox.com/sh/9i76ymyhqhl53pa/AAA5zYYpmbxEsLgxfpzoAQqQa?dl=0).
+- We wanted to use github's LFS system however that kept leading to errors hence, the workaround
 
 ### References
 
